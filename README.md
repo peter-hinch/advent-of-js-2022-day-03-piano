@@ -1,6 +1,6 @@
-# Advent of JS 2022 - Day 1 - Pomodoro Timer
+# Advent of JS 2022 - Day 3 - Piano
 
-This is my submission for day 1 of the [Advent of JS](https://www.adventofjs.com/) challenge.
+This is my submission for day 3 of the [Advent of JS](https://www.adventofjs.com/) challenge.
 
 For my submissions to Advent of JS, I have taken the approach of first completing the corresponding challenge in the [Advent of CSS](https://www.adventofcss.com/) and then building the functionality for the JS challenge on top. For this challenge I have chosen to work with React.js and typescript.
 
