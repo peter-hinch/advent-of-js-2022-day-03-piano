@@ -1,5 +1,6 @@
 import React from 'react';
 
+import 'normalize.css';
 import useSound from 'use-sound';
 
 import * as sounds from './assets/audio/audio';
